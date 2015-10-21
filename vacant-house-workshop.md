@@ -29,3 +29,5 @@ Don't expect a lecture! Through interactive activities we will break down the is
 - [What is Zoning?](http://welcometocup.org/Projects/Workshops/WhatIsZoning) - Center for Urban Pedagogy
 - [What is ULURP?](http://welcometocup.org/Projects/Workshops/WhatIsULURP) - Center for Urban Pedagogy
 - [Guide to the Development Process in Baltimore City](http://communitylaw.org/wp-content/uploads/2013/10/The-Community-Associationss-Guide-to-the-Development-Process-in-Baltimore-City-.pdf) - Community Law Center
+- [Moving Beyond the Automobile Curriculum](http://www.streetfilms.org/moving-beyond-the-automobile/curriculum/) - Streetsfilm
+- [Pedagogical Perspectives on Teaching Community Development](http://www.researchgate.net/publication/276420895_Pedagogical_Perspectives_on_Teaching_Community_Development)
