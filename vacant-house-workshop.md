@@ -8,7 +8,7 @@ What do you know about vacant houses? Baltimore City has over 16,000 vacant home
 
 Don't expect a lecture! Through interactive activities we will break down the issues (population, economic and social) that drive Baltimore's vacant house problems past and present. We will also discuss the strategies Baltimore is using to address vacant houses from reuse to demolition and where citizens and community groups fit in.
 
-## Worskshop Ideas
+## Workshop Ideas
 
 - Ask people to share their own stories and experiences with vacant housing. Add those stories to a share conceptual map that illustrates the variety of "problems" created by vacant housing.
 - Interactive exercises to illustrate the changing location of Baltimore's population. Ask people to move around the room to illustrate regional growth and the movement of residents to the suburbs following World War II.
@@ -21,3 +21,6 @@ Don't expect a lecture! Through interactive activities we will break down the is
 - [Parable of the Polygons](http://ncase.me/polygons/) - an interactive simulation illustrating some of the factors that drive segregation
 - [Teaching Tolerance - Classroom Resources](http://www.tolerance.org/classroom-resources)
 - [Building American Cities Toolkit - Center for Community Progress](http://www.communityprogress.net/toolkit-pages-292.php)
+- [Participatory Budgeting Practices, Places, Games and Resources](http://www.tomatleeblog.com/archives/43549766)
+- [Vacants to Value - Baltimore](http://www.vacantstovalue.org/)
+- [Baltimore Heritage](http://baltimoreheritage.org/)
