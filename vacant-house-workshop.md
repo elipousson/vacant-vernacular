@@ -12,5 +12,12 @@ Don't expect a lecture! Through interactive activities we will break down the is
 
 - Ask people to share their own stories and experiences with vacant housing. Add those stories to a share conceptual map that illustrates the variety of "problems" created by vacant housing.
 - Interactive exercises to illustrate the changing location of Baltimore's population. Ask people to move around the room to illustrate regional growth and the movement of residents to the suburbs following World War II.
-- Create hexagonal tiles labeled with the "causes" of vacant housing and specific examples of vacant buildings. These tiles can be used by participants to create conceptual maps that illustrate the way in which each vacant house is different but is often affected by the same set of broader issues.
+- Create hexagonal tiles labeled with the "causes" of vacant housing and specific examples of vacant buildings. These tiles can be used by participants to create conceptual maps that illustrate the way in which each vacant house is different but is often affected by the same set of broader issues. Check out this post for more ont the idea of ["hexagonal thinking."](http://notosh.com/lab/design-thinking-synthesis-hexagonal-thinking/)
 - Create an activity with fake "Monopoly" money that invites participants to try to step into the shoes of a vacant house flipper, a city housing official or a home-owner on a fixed income. This activity is intended to encourage empathy and promote an understanding that different points of view shape how this issue is percieved and what solutions are promoted.
+
+## Related Resources
+
+- [What’s in a Number? Confronting Urban Population Decline, Jason Segedy](http://thestile1972.tumblr.com/post/101874810155/whats-in-a-number-confronting-urban-population)
+- [Parable of the Polygons](http://ncase.me/polygons/) - an interactive simulation illustrating some of the factors that drive segregation
+- [Teaching Tolerance - Classroom Resources](http://www.tolerance.org/classroom-resources)
+- [Building American Cities Toolkit - Center for Community Progress](http://www.communityprogress.net/toolkit-pages-292.php)
