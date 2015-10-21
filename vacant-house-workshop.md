@@ -10,10 +10,10 @@ Don't expect a lecture! Through interactive activities we will break down the is
 
 ## Workshop Ideas
 
-- Ask people to share their own stories and experiences with vacant housing. Add those stories to a share conceptual map that illustrates the variety of "problems" created by vacant housing.
-- Interactive exercises to illustrate the changing location of Baltimore's population. Ask people to move around the room to illustrate regional growth and the movement of residents to the suburbs following World War II.
-- Create hexagonal tiles labeled with the "causes" of vacant housing and specific examples of vacant buildings. These tiles can be used by participants to create conceptual maps that illustrate the way in which each vacant house is different but is often affected by the same set of broader issues. Check out this post for more ont the idea of ["hexagonal thinking."](http://notosh.com/lab/design-thinking-synthesis-hexagonal-thinking/)
-- Create an activity with fake "Monopoly" money that invites participants to try to step into the shoes of a vacant house flipper, a city housing official or a home-owner on a fixed income. This activity is intended to encourage empathy and promote an understanding that different points of view shape how this issue is percieved and what solutions are promoted.
+- **Everybody has ideas about vacant houses.** Ask people to share their own stories and experiences with vacant housing. Add those stories to a share conceptual map that illustrates the variety of "problems" created by vacant housing.
+- **Where do people in Baltimore live then and now?** Interactive exercises to illustrate the changing location of Baltimore's population. Ask people to move around the room to illustrate regional growth and the movement of residents to the suburbs following World War II.
+- **Why does Baltimore have so many vacant houses?** Create hexagonal tiles labeled with the "causes" of vacant housing and specific examples of vacant buildings. These tiles can be used by participants to create conceptual maps that illustrate the way in which each vacant house is different but is often affected by the same set of broader issues. Check out this post for more ont the idea of ["hexagonal thinking."](http://notosh.com/lab/design-thinking-synthesis-hexagonal-thinking/)
+- **Making money or spending money on vacant houses.** Create an activity with fake "Monopoly" money that invites participants to try to step into the shoes of a vacant house flipper, a city housing official or a home-owner on a fixed income. This activity is intended to encourage empathy and promote an understanding that different points of view shape how this issue is percieved and what solutions are promoted.
 
 ## Related Resources
 
@@ -24,3 +24,8 @@ Don't expect a lecture! Through interactive activities we will break down the is
 - [Participatory Budgeting Practices, Places, Games and Resources](http://www.tomatleeblog.com/archives/43549766)
 - [Vacants to Value - Baltimore](http://www.vacantstovalue.org/)
 - [Baltimore Heritage](http://baltimoreheritage.org/)
+- [Youth and Teachers - American Planning Association](https://www.planning.org/education/youth/)
+- [Place-making Workshops](http://www.pps.org/blog/place-game-workshops/)
+- [What is Zoning?](http://welcometocup.org/Projects/Workshops/WhatIsZoning) - Center for Urban Pedagogy
+- [What is ULURP?](http://welcometocup.org/Projects/Workshops/WhatIsULURP) - Center for Urban Pedagogy
+- [Guide to the Development Process in Baltimore City](http://communitylaw.org/wp-content/uploads/2013/10/The-Community-Associationss-Guide-to-the-Development-Process-in-Baltimore-City-.pdf) - Community Law Center
