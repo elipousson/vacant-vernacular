@@ -1,0 +1,34 @@
+[
+  {
+  "name": "Property Types",
+  "parent": "null",
+  "children": [
+    {
+      "name": "Multifamily Rental Property",
+      "parent": "Property Types",
+      "children": [
+        {
+          "name": "Inadequate cash flow or income base",
+          "parent": "Multifamily Rental Property"
+        },
+        {
+          "name": "Daughter of A",
+          "parent": "Multifamily Rental Property"
+        }
+      ]
+    },
+    {
+      "name": "Single-family Homes",
+      "parent": "Property Types"
+    }
+    {
+      "name": "Commercial & Mixed-use Properties",
+      "parent": "Property Types"
+    }
+    {
+      "name": "Industrial Properties/Brownfields",
+      "parent": "Property Types"
+    }
+  ]
+}
+]
