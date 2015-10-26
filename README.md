@@ -4,22 +4,25 @@ This repository is a collection of materials related to an ongoing research proj
 
 ## What is this project?
 
-This project is a lot of little things that I am still in the process of gathering into a more coherent whole. All of this materials is presented as-is and may or may not be useful at this point.
+This project is a lot of little things that I am still in the process of gathering into a more coherent whole. All of this materials is presented as-is and may or may not be useful at this point. This project is also serving as a pilot for the exploration of online visualization tools and engagement strategies for the [Local Preservation School](localpreservation.github.io) project. 
 
-Research
+**Research** (July 2014 – ongoing)
 
 - Draft of the paper I presented at VAF in Chicago, 2015 - [Part 1](https://historicsprawl.wordpress.com/2015/05/12/we-have-a-problem-with-vacant-houses-in-baltimore-part-one-of-a-draft-paper-for-the-vaf-conference-in-chicago/), [Part 2](https://historicsprawl.wordpress.com/2015/05/12/we-have-a-problem-with-vacant-houses-in-baltimore-part-two-of-two/)
+- [Salvage City](https://github.com/elipousson/vacant-vernacular/blob/master/salvage-city.md) (Selected excerpts)
 
-Vacant Housing and Preservation Workshop
+**Vacant Housing and Preservation Workshop** (November 2015)
 
 - [Workshop Description/Related Resources](https://github.com/elipousson/vacant-vernacular/blob/master/vacant-house-workshop.md)
+- [Background](https://github.com/elipousson/vacant-vernacular/blob/master/vacant-house-background.md)
+- [Slides](http://slides.com/baltimoreheritage/vacant-house-workshop#/)
 - [Abandoned Property Types/Triggers (D3.js tree diagram)](http://bl.ocks.org/elipousson/ad787f9c9beb4cc48cd7)
 
-Additional Related Material
+**Additional Related Material**
 
-- Vacant House Bike Tour - [Notes](https://docs.google.com/document/d/1N5u8WjK0PrqRMQc9bmBePGeAfYTIwCoecQxkK1Tqo1k/edit?usp=sharing)
-- [Creative Responses to issues of Vacancy, Preservation & Heritage](https://docs.google.com/document/d/1Qn6ugfJzjkHNN_TtT2xB_sTZHa_Zj-jF5g_x4w8QMX4/edit?usp=sharing)
-- [Industrial Building Reuse Tour Notes](https://docs.google.com/document/d/18_ePOZvjwMkc3FP29dR-qvxEiXSfaXo3unegEKrUarY/edit?usp=sharing)
+- Vacant House Bike Tour - [Notes](https://docs.google.com/document/d/1N5u8WjK0PrqRMQc9bmBePGeAfYTIwCoecQxkK1Tqo1k/edit?usp=sharing) (August 2015)
+- [Industrial Building Reuse Tour Notes](https://docs.google.com/document/d/18_ePOZvjwMkc3FP29dR-qvxEiXSfaXo3unegEKrUarY/edit?usp=sharing) (June 2015)
+- [Creative Responses to issues of Vacancy, Preservation & Heritage](https://docs.google.com/document/d/1Qn6ugfJzjkHNN_TtT2xB_sTZHa_Zj-jF5g_x4w8QMX4/edit?usp=sharing) (2014)
 - Background statement on preservation and vacancy in Baltimore
 - Background statement on preservation and vacant industrial buildings in Baltimore
 
@@ -32,7 +35,7 @@ I am currently developing an [interactive](https://github.com/elipousson/vacant-
 
 ## Who is working on this project?
 
-I (Eli Pousson) am a preservationist and historian working for [Baltimore Heritage](http://baltimoreheritage.org) ([GitHub](http://github.com/baltimoreheritage/). You can reach me on Twitter [@elipousson](http://twitter.com/elipousson) or email at pousson@baltimoreheritage.org. This project has involved formal and informal collaboration with colleagues including:
+I (Eli Pousson) am a preservationist and historian working for [Baltimore Heritage](http://baltimoreheritage.org) (also here on [GitHub](http://github.com/baltimoreheritage/)). You can reach me on Twitter [@elipousson](http://twitter.com/elipousson) or by email at pousson@baltimoreheritage.org. This project has involved formal and informal collaboration with colleagues including:
 
 - Johns Hopkins
 - Michael Allen
@@ -41,5 +44,7 @@ I (Eli Pousson) am a preservationist and historian working for [Baltimore Herita
 - Katie Bachler
 - Carol Ott
 - Andy Cook
+- Max Pollock
+- Marian Glebes
 
 And others! Please let me know if you should be on this list and I missed including you by name.
