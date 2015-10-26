@@ -4,9 +4,15 @@ I am developing an interactive workshop to teach Baltimore City residents about 
 
 ## Announcement
 
-What do you know about vacant houses? Baltimore City has over 16,000 vacant homes that contribute to a wide. Are they "eyesores" that all need to be torn down? Or historic buildings with potential for reuse? Bring your questions and ideas to a free workshop on vacant housing in Baltimore dedicated to exploring this important issue facing Baltimore's historic neighborhoods.
+What do you know about vacant houses? Baltimore City has over 16,000 vacant homes that contribute to a wide range of challenges for Baltimore residents and neighborhoods. Are they "eyesores" that all need to be torn down? Or historic buildings with potential for reuse? Bring your questions and ideas to a free workshop on vacant housing in Baltimore dedicated to exploring this important issue facing Baltimore's historic neighborhoods.
 
 Don't expect a lecture! Through interactive activities we will break down the issues (population, economic and social) that drive Baltimore's vacant house problems past and present. We will also discuss the strategies Baltimore is using to address vacant houses from reuse to demolition and where citizens and community groups fit in.
+
+## Workshop Materials
+
+- [Background](https://github.com/elipousson/vacant-vernacular/blob/master/vacant-house-background.md)
+- [Slides](http://slides.com/baltimoreheritage/vacant-house-workshop#/)
+- [Abandoned Property Types/Triggers (D3.js tree diagram)](http://bl.ocks.org/elipousson/ad787f9c9beb4cc48cd7)
 
 ## Workshop Ideas
 
