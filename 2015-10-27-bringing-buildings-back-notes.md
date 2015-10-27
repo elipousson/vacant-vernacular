@@ -1,5 +1,7 @@
 ## Notes from Bringing Buildings Back
 
+# Understanding Abandonment
+
 ## What is an abandoned property? (pp.1-3)
 
 Abandoned property is **not** the same as a vacant property. A property vacant for a few days or weeks or awaiting planned rehabilitation may be vacant but not abandoned.
@@ -72,8 +74,7 @@ Factors that "give rise to abandonment" can be described as "abandonment trigger
   - Obsolesence of older industrial facilities, multistory buildings served by railroad/canal
   - Costs and uncertainties of real/perceived environmental contamination
 
-
-## Why are abandoned properties a problem?
+## Why are abandoned properties a problem? (pp.8-9)
 
 Effect on:
 
@@ -85,3 +86,50 @@ Effect on:
 
 >Of all of the factors blighting the lives of the people who live in troubled inner-city communities, abandoned properties may be the single most destructive, not least because they aggravate many of the other problems faced by such communities.
 
+---
+
+Note: I've transcribed the table of contents for the sections on Preventing Abandonment, Taking Control of Abandoned Properties and Fostering Sustainable Reuse as a framework for further analysis and description of Baltimore's policies towards vacant housing.
+
+# Preventing Abandonment
+
+- Property information and early warning systems
+- Improving economic viability of at-risk, absentee-owned properties
+  - Loan programs
+  - Tax relief
+  - Insurance
+  - Training and technical assistance for landlords
+- Preventing abandonment of owner-occupied housing
+  - Loss of property through inability to pay
+    - Foreclosure prevention
+    - Predatory lending
+  - Loss of property through market failure
+    - Community brokerage
+    - Presale improvement programs
+    - Senior citizen outreach
+  - Owner-occupied multi-family housing
+- Enforcement and intervention
+  - Code enforcement
+
+# Taking Control of Abandoned Properties
+
+# Fostering the Sustainable Reuse of Abandoned Properties
+
+# Tables
+
+Table 13.1: Criteria for Evaluating Whether to Demolish or Preserve Abandoned Buildings (p. 177)
+
+| Criteria | Demolish | Preserve |
+|---------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Quality of building | The building is obsolete by virtue of small size of character. | The building is attractive, of high quality, or of architectural or historical value. |
+| Neighborhood fabric | The building is located in an area where the neighborhood fabric has largely been lost through incompatible land uses and demolitions. | The building is located in an area where the neighborhood fabric is still strong, and its physical presence contributes to that fabric. |
+| Reuse potential of resulting lot | Demolition will facilitate a comprehensive rebuilding or revitalization strategy in the area. | Demolition will result in a potentially unusable vacant lot rather than an opportunity for redevelopment or revitalization. |
+| Nuisance level of property | The nuisance impact of the building and the harm that it is doing in its present condition, in the absence of immediate reuse potential, outweigh the benefits of saving it for possible future reuse. | The reuse potential of the building, even if not immediate, outweighs the current harm that it does in its present condition, particularly if enhanced efforts are made to secure or stabilize the property. |
+
+Questions to guide the decision around whether to demolish or preserve any given property: 
+
+- What is the quality of the building, and does it have particular architectural or historical value worth preserving?
+- What is the existing fabric of the neighborhood in which it is located, and does the building's presence contribute to that fabric?
+- What potential development or revitalization opportunities, if any, will the demolition of the building create?
+- How severe is the nuisance impact or other harm from the building in its present condition, and does that impact outweight the loss of the reuse potential of the building?
+
+Figure 13.1: Property Demolition Decision Tree
