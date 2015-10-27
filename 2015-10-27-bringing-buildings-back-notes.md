@@ -112,9 +112,7 @@ Note: I've transcribed the table of contents for the sections on Preventing Aban
 
 # Taking Control of Abandoned Properties
 
-# Fostering the Sustainable Reuse of Abandoned Properties
-
-# Tables
+## Deciding when to demolish and when to preserve an abandoned building
 
 Table 13.1: Criteria for Evaluating Whether to Demolish or Preserve Abandoned Buildings (p. 177)
 
@@ -133,3 +131,10 @@ Questions to guide the decision around whether to demolish or preserve any given
 - How severe is the nuisance impact or other harm from the building in its present condition, and does that impact outweight the loss of the reuse potential of the building?
 
 Figure 13.1: Property Demolition Decision Tree
+
+- Housing Supply
+- Neighborhood Fabric
+- Nuisance Level
+- Decision
+
+# Fostering the Sustainable Reuse of Abandoned Properties
