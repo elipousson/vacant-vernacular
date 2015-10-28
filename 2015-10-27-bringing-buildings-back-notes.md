@@ -138,3 +138,15 @@ Figure 13.1: Property Demolition Decision Tree
 - Decision
 
 # Fostering the Sustainable Reuse of Abandoned Properties
+
+Table 15.2 Elements in a Neighborhood Marketing Plan
+
+| Element | Description |
+|--------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Define the neighborhood product |  |
+| Define the property product | Asses the type, price, and availability of housing in the neighborhood, and the availability of incentives and other assistance for new home buyers. |
+| Identify the target market | Based on the assessment of the product, identify the type(s) of household that are potential prospects for the neighborhood and where they are most likely to be found. |
+| Define the message | Decide what information should be conveyed about the neighborhood and its housing opportunities that will best influence the target market. Asses what messages are currently being communicated about the neighborhood, and how they must change for the neighborhood to present itself effectively. |
+| Identify partners and outreach targets for the marketing strategy | Identify partners inside and outside the neighborhood who can help the neighborhood reach its target audience, and outreach targets such as real estate brokers and agents and media through which the target audience can be reached. Partners can include neighbors as well as neighborhood-based institutions, such as area employers, institutions, and churches, that reach wider audiences. |
+| Determine future marketing and communication activities | Identify in detail every planned marketing or communications activity. |
+| Establish a budget and timeline and assign responsibility for activities | Make sure that no activities are planned unless a specific individual or group of individuals has explicitly taken responsibility for carrying them out. |
