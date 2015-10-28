@@ -176,9 +176,11 @@ Table 16.1 — Note: the transcription is incomplete for several rows
 
 Table 20.2
 
+Note: These lists don't look quite right as Markdown tables and should be reformatted.
+
 | Scale | Elements |
 |----------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| Block face or street |  |
+| Block face or street | Street trees Green medians Tot lots Community gardens Sidewalk greening Mini-parks Playgrounds Side yards |
 | Block | Playgrounds Community greens Small neighborhood parks Community gardens Community agriculture |
 | Neighborhood | Greenways Fields and forests Neighborhood parks and recreation areas Squares and plazas Community agriculture Neighborhood gateways |
 | City | City gateways Squares and plazas City parks and recreation areas Waterfronts |
