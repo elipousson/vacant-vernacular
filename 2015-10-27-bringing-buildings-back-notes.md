@@ -139,7 +139,13 @@ Figure 13.1: Property Demolition Decision Tree
 
 # Fostering the Sustainable Reuse of Abandoned Properties
 
-Table 15.2 Elements in a Neighborhood Marketing Plan
+## Home-buying and rehabilitation incentives
+
+
+
+## Elements in a Neighborhood Marketing Plan
+
+Table 15.2
 
 | Element | Description |
 |--------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -150,3 +156,29 @@ Table 15.2 Elements in a Neighborhood Marketing Plan
 | Identify partners and outreach targets for the marketing strategy | Identify partners inside and outside the neighborhood who can help the neighborhood reach its target audience, and outreach targets such as real estate brokers and agents and media through which the target audience can be reached. Partners can include neighbors as well as neighborhood-based institutions, such as area employers, institutions, and churches, that reach wider audiences. |
 | Determine future marketing and communication activities | Identify in detail every planned marketing or communications activity. |
 | Establish a budget and timeline and assign responsibility for activities | Make sure that no activities are planned unless a specific individual or group of individuals has explicitly taken responsibility for carrying them out. |
+
+
+## Home-buying and rehabilitation incentives
+
+Table 16.1 — Note: the transcription is incomplete for several rows
+
+| Incentive | Description |
+|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Tax abatement for new homes | Provides for the abatement (reduction) of property taxes to the buyer of a newly constructed or substantially rehabilitated home built in the city or in target areas. The number of years of abatement and the percentage of taxes abated varies widely among jurisdictions. |
+| Tax abatement for rehabilitation | Provides for the abatement of all or part of the taxes arising from the increase value of the property resulting from rehabilitation; may also include some reduction in the preimprovement taxes due. The number of years of abatement and the percentage of taxes abated varies widely. |
+| Down payment and closing cost assistance | Provides financial assistance to the home buyer to cover all or part of the down payment and closing costs on the purchase of a home in the city or in target areas. Funds can be provided as a grant, a deferred or forgivable loan, or a low-interest loan. This assistance is usually offered only to low-income buyers. |
+| Mortgage loans | Provides mortgage loans that may offer a lower interest rate, a smaller down payment, and/or more flexible credit and lending criteria than conventional mortgages. ... |
+| Rehabilitation asssistance | Provides financial assistance to property owners to rehabilitate property. ... |
+| State historic preservation tax credits | Many states offer tax credits against state income tax liabilities for rehabilitation of historic properties or properties in historic districts. ... |
+| Equity protection programs | Equity protection is an insurance-oriented approach under which the buyer's equity in her home is protected against a decline in property values in the area. |
+
+## Relationship between scale and open space elements
+
+Table 20.2
+
+| Scale | Elements |
+|----------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| Block face or street |  |
+| Block | Playgrounds Community greens Small neighborhood parks Community gardens Community agriculture |
+| Neighborhood | Greenways Fields and forests Neighborhood parks and recreation areas Squares and plazas Community agriculture Neighborhood gateways |
+| City | City gateways Squares and plazas City parks and recreation areas Waterfronts |
