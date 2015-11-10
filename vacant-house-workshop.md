@@ -1,6 +1,8 @@
 # Vacant House Workshop
 
-I am developing an interactive workshop to teach Baltimore City residents about vacant housing. I'd like participants to walk away with a better understanding of what are the causes for vacant housing in the past, how vacant houses are shaped by public policy today, and what strategies community leaders and city officials are using to address vacant housing as an issue. My model for this workshop is the ["What is Affordable Housing?" workshop kit](http://welcometocup.org/Projects/EnvisioningDevelopment/WhatIsAffordableHousing) created by the Center for Urban Pedagogy. The project is an extension of [a research paper](https://historicsprawl.wordpress.com/2015/05/12/we-have-a-problem-with-vacant-houses-in-baltimore-part-one-of-a-draft-paper-for-the-vaf-conference-in-chicago/) I wrote for the Vernacular Architecture Forum meeting in Chicago in June 2015. 
+I am developing an interactive workshop to teach Baltimore City residents about vacant housing. I'd like participants to walk away with a better understanding of what are the causes for vacant housing in the past, how vacant houses are shaped by public policy today, and what strategies community leaders and city officials are using to address vacant housing as an issue. My model for this workshop is the ["What is Affordable Housing?" workshop kit](http://welcometocup.org/Projects/EnvisioningDevelopment/WhatIsAffordableHousing) created by the Center for Urban Pedagogy. The project is an extension of [a research paper](https://historicsprawl.wordpress.com/2015/05/12/we-have-a-problem-with-vacant-houses-in-baltimore-part-one-of-a-draft-paper-for-the-vaf-conference-in-chicago/) I wrote for the Vernacular Architecture Forum meeting in Chicago in June 2015.
+
+I also wrote a short post about the data visualizations I'm trying to develop for this workshop: [Explaining Baltimore's vacant houses with data visualizations](http://elipousson.github.io/resources/2015/11/10/vacant-vernacular-data-visualization/)
 
 ## Announcement
 
@@ -10,9 +12,12 @@ Don't expect a lecture! Through interactive activities we will break down the is
 
 ## Workshop Materials
 
+All of these materials are still under development and may contain errors or ommissions:
+
 - [Background](https://github.com/elipousson/vacant-vernacular/blob/master/vacant-house-background.md)
 - [Slides](http://slides.com/baltimoreheritage/vacant-house-workshop#/)
-- [Abandoned Property Types/Triggers (D3.js tree diagram)](http://bl.ocks.org/elipousson/ad787f9c9beb4cc48cd7)
+- [Data Visualization Gallery](http://bl.ocks.org/elipousson/805c2f1150928174ac8e)
+  - [Abandoned Property Types/Triggers (D3.js tree diagram)](http://bl.ocks.org/elipousson/ad787f9c9beb4cc48cd7)
 
 ## Workshop Ideas
 
