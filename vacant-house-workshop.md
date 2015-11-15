@@ -26,6 +26,23 @@ All of these materials are still under development and may contain errors or omm
 - **Why does Baltimore have so many vacant houses?** Create hexagonal tiles labeled with the "causes" of vacant housing and specific examples of vacant buildings. These tiles can be used by participants to create conceptual maps that illustrate the way in which each vacant house is different but is often affected by the same set of broader issues. Check out this post for more ont the idea of ["hexagonal thinking."](http://notosh.com/lab/design-thinking-synthesis-hexagonal-thinking/)
 - **Making money or spending money on vacant houses.** Create an activity with fake "Monopoly" money that invites participants to try to step into the shoes of a vacant house flipper, a city housing official or a home-owner on a fixed income. This activity is intended to encourage empathy and promote an understanding that different points of view shape how this issue is percieved and what solutions are promoted.
 
+## Workshop Itinerary
+
+- 7 stages
+- 70 minutes length
+- Major topics: housing, vacancy, demolition and preservation
+- Goals: Encourage participants to understand the history of Baltimore's growth and development as the context for the conditions of vacant housing and disinvestment in the present. Explore the basis for demolition and preservation as alternate strategies for addressing vacant housing. 
+
+| Stage        | Goals | Time |
+|------        |------|-------|
+| Welcome      |  Explain the goals and itinerary for the workshop. Give time for arriving participants to get settled.    |   5 minutes    |
+| Introduction |  Use an introductory exercise that asks participants to share something about themselves (potentially a hand-raising exercise or a moving around the room exercise) and about their interest in the topic of vacant housing. During this introductory exercise, the presenter provides a more detailed outline of the major topics and themes addressed by the workshop.     |   10 minutes    |
+| Housing      |  Explore the history and relationships between housing, regional growth and development. Use a combination of visualizations, maps and physical movement (of people or some kind of tokens on a board) to explain how Baltimore grew and how the city's borders expanded between the 19th century and the present. In this stage, the participants get to pick a house that they can identify with.   |   20 minutes    |
+| Vacancy      |  Explore the economic and social context of Baltimore from 1950 to the present with a focus on industrial job loss, continued housing segregation/neighborhood transition (complicated ideas of "white flight"), and the subsidized growth of the suburbs. Continue to explore the idea of abandonment triggers with a game—either card based or "bingo"-style where participants start as houses and then all are vacant by the end of this stage.    |   15 minutes    |
+| Demolition   |  ...    |   10 minutes    |
+| Preservation |  ...    |   10 minutes    |
+| Wrap-Up      |  Leave enough time for at least a couple of reflections, questions or comments from participants. Offer to stay after to discuss further questions. Request feedback through provided feedback forms. Refer participants to any online resources associated with the workshop that may be available.    |   5 minutes    |
+
 ## Related Resources
 
 - [What’s in a Number? Confronting Urban Population Decline, Jason Segedy](http://thestile1972.tumblr.com/post/101874810155/whats-in-a-number-confronting-urban-population)
