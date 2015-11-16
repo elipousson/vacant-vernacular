@@ -77,17 +77,25 @@ _Alternate idea for teaching the same things:_ Create hexagonal tiles labeled wi
 
 # Related Resources
 
+## Housing and Growth
+- [Where do we grow from here? A Teacher's Resource Guide on Growth and its Impacts in Maryland](http://www.dnr.maryland.gov/sg_teachers_guide/index.asp)
 - [What’s in a Number? Confronting Urban Population Decline, Jason Segedy](http://thestile1972.tumblr.com/post/101874810155/whats-in-a-number-confronting-urban-population)
+- [Youth and Teachers - American Planning Association](https://www.planning.org/education/youth/)
+- [Moving Beyond the Automobile Curriculum](http://www.streetfilms.org/moving-beyond-the-automobile/curriculum/) - Streetsfilm
+
+## Vacancy and Segregation
 - [Parable of the Polygons](http://ncase.me/polygons/) - an interactive simulation illustrating some of the factors that drive segregation
 - [Teaching Tolerance - Classroom Resources](http://www.tolerance.org/classroom-resources)
+
+## Demolition and Preservation
 - [Building American Cities Toolkit - Center for Community Progress](http://www.communityprogress.net/toolkit-pages-292.php)
-- [Participatory Budgeting Practices, Places, Games and Resources](http://www.tomatleeblog.com/archives/43549766)
 - [Vacants to Value - Baltimore](http://www.vacantstovalue.org/)
 - [Baltimore Heritage](http://baltimoreheritage.org/)
-- [Youth and Teachers - American Planning Association](https://www.planning.org/education/youth/)
+- [Guide to the Development Process in Baltimore City](http://communitylaw.org/wp-content/uploads/2013/10/The-Community-Associationss-Guide-to-the-Development-Process-in-Baltimore-City-.pdf) - Community Law Center
+
+## Workshop Planning
+- [Participatory Budgeting Practices, Places, Games and Resources](http://www.tomatleeblog.com/archives/43549766)
 - [Place-making Workshops](http://www.pps.org/blog/place-game-workshops/)
 - [What is Zoning?](http://welcometocup.org/Projects/Workshops/WhatIsZoning) - Center for Urban Pedagogy
 - [What is ULURP?](http://welcometocup.org/Projects/Workshops/WhatIsULURP) - Center for Urban Pedagogy
-- [Guide to the Development Process in Baltimore City](http://communitylaw.org/wp-content/uploads/2013/10/The-Community-Associationss-Guide-to-the-Development-Process-in-Baltimore-City-.pdf) - Community Law Center
-- [Moving Beyond the Automobile Curriculum](http://www.streetfilms.org/moving-beyond-the-automobile/curriculum/) - Streetsfilm
 - [Pedagogical Perspectives on Teaching Community Development](http://www.researchgate.net/publication/276420895_Pedagogical_Perspectives_on_Teaching_Community_Development)
