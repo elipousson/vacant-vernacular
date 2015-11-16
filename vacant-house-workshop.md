@@ -33,17 +33,35 @@ All of these materials are still under development and may contain errors or omm
 | Introduction |  Use an introductory exercise that asks participants to share something about themselves (potentially a hand-raising exercise or a moving around the room exercise) and about their interest in the topic of vacant housing. During this introductory exercise, the presenter provides a more detailed outline of the major topics and themes addressed by the workshop.     |   10 minutes    |
 | Housing      |  Explore the history and relationships between housing, regional growth and development. Use a combination of visualizations, maps and physical movement (of people or some kind of tokens on a board) to explain how Baltimore grew and how the city's borders expanded between the 19th century and the present. In this stage, the participants get to pick a house that they can identify with.   |   20 minutes    |
 | Vacancy      |  Explore the economic and social context of Baltimore from 1950 to the present with a focus on industrial job loss, continued housing segregation/neighborhood transition (complicated ideas of "white flight"), and the subsidized growth of the suburbs. Continue to explore the idea of abandonment triggers with a game—either card based or "bingo"-style where participants start as houses and then all are vacant by the end of this stage.    |   15 minutes    |
-| Demolition   |  ...    |   10 minutes    |
-| Preservation |  ...    |   10 minutes    |
+| Community Development   |  Combines disucssion on asset-based community development with discussion on costs/benefits of preservation and/or demolition.    |   20 minutes    |
 | Wrap-Up      |  Leave enough time for at least a couple of reflections, questions or comments from participants. Offer to stay after to discuss further questions. Request feedback through provided feedback forms. Refer participants to any online resources associated with the workshop that may be available.    |   5 minutes    |
 
-## Discussion Prompts
+## Introduction
 
 - **Everybody has ideas about vacant houses.** Ask people to share their own stories and experiences with vacant housing. Add those stories to a share conceptual map that illustrates the variety of "problems" created by vacant housing.
 
 ## Workshop Activities
 
-### Sprawl Shuffle
+### Vacant Houses are Us (Hand-raising exercise followed by lecture)
+
+About you:
+
+- What kind of house do you live? attached v. detached; single v. multi-family housing
+- Where live? Baltimore City v. outside the city
+- Where born? Native to Maryland v. outside the state
+- Proximity? Vacant within 10 blocks, 5 blocks, your block, next door
+- Commute? Drive, walk, bike, or transit
+- Action on vacant houses? Call 311, lot or block clean-up (shovel snow)
+
+About Baltimore:
+
+- What is a vacant house?
+- Where are vacant houses?
+- How many vacant houses?
+
+### Sprawl Shuffle (Lecture with some interactivity)
+
+Could be done as a data visualization with quick quizzes for numbers? Or could be done with people moving around the room - it may depend on the available space.
 
 **Where do people in Baltimore live then and now?** Interactive exercises to illustrate the changing location of Baltimore's population. Ask people to move around the room to illustrate regional growth and the movement of residents to the suburbs following World War II.
 
@@ -53,7 +71,7 @@ What does this teach?
 - Illustrate the changing landuse patterns in the core and proximate ("inner city") neighborhoods
 - Highlight the role of annexation in seeking regional equity in the late 19th and early 20th centuries
 
-### Vacant House Bingo
+### Vacant House Bingo (Lecture with bingo game)
 
 **Why does Baltimore have so many vacant houses?**
 
@@ -63,6 +81,8 @@ What does this teach?
 - These abandonment triggers have changed over time
 - The likelihood of these triggers depends on race, income, age, ownership, etc.
 
+Make sure cards are small. Cards will have different neighborhoods (or parts of the city) identified on them and have certain characteristics that will be mentioned during the lecture piece of the program:
+
 How can we make it?
 
 - Create bingo cards using terms from the [Abandoned Property Types/Triggers (D3.js tree diagram)](http://bl.ocks.org/elipousson/ad787f9c9beb4cc48cd7)
@@ -71,9 +91,18 @@ How can we make it?
 
 _Alternate idea for teaching the same things:_ Create hexagonal tiles labeled with the "causes" of vacant housing and specific examples of vacant buildings. These tiles can be used by participants to create conceptual maps that illustrate the way in which each vacant house is different but is often affected by the same set of broader issues. Check out this post for more ont the idea of ["hexagonal thinking."](http://notosh.com/lab/design-thinking-synthesis-hexagonal-thinking/)
 
-### Vacant House Monopoloy
+### Vacant House Monopoloy (Discussion with monopoly money game)
 
 **Making money or spending money on vacant houses.** Create an activity with fake "Monopoly" money that invites participants to try to step into the shoes of a vacant house flipper, a city housing official or a home-owner on a fixed income. This activity is intended to encourage empathy and promote an understanding that different points of view shape how this issue is percieved and what solutions are promoted.
+
+- Asset based community development
+- Combines discussion about preservation and demolition
+
+Each table gets to be a housing official, neighborhood activist, preservationists, etc. playing through a scenario:
+
+- A budget
+- A neighborhood with some # of vacant/occupied houses and assets (school, park, transit, etc.)
+- Some reference numbers (cost of demolition, cost of rehabilitation, selling price of area homes)
 
 # Related Resources
 
