@@ -16,6 +16,7 @@ All of these materials are still under development and may contain errors or omm
 
 - [Background](https://github.com/elipousson/vacant-vernacular/blob/master/vacant-house-background.md)
 - [Slides](http://slides.com/baltimoreheritage/vacant-house-workshop#/)
+- [Workshop Script](https://github.com/elipousson/vacant-vernacular/blob/master/vacant-house-workshop-script.md)
 - [Data Visualization Gallery](http://bl.ocks.org/elipousson/805c2f1150928174ac8e)
   - [Abandoned Property Types/Triggers (D3.js tree diagram)](http://bl.ocks.org/elipousson/ad787f9c9beb4cc48cd7)
 
