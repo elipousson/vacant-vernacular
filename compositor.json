@@ -1,0 +1,87 @@
+{
+  "name": "elipousson/vacant-vernacular",
+  "version": "0.1.4",
+  "libraries": {
+    "xv": "^1.1.25"
+  },
+  "title": "Vacant Vernacular",
+  "branch": "",
+  "style": {
+    "name": "Swiss",
+    "componentSet": {
+      "nav": "nav/BasicNav",
+      "header": "header/SwissHeader",
+      "article": "article/SwissArticle",
+      "footer": "footer/BasicFooter"
+    },
+    "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+    "heading": {
+      "fontWeight": 700,
+      "letterSpacing": "-0.01em"
+    },
+    "layout": {
+      "fluid": true
+    },
+    "colors": {
+      "text": "#000",
+      "background": "#fff",
+      "primary": "#05a",
+      "secondary": "#444",
+      "highlight": "#f30",
+      "border": "#ccc",
+      "muted": "#eee"
+    }
+  },
+  "content": [
+    {
+      "component": "nav",
+      "links": [
+        {
+          "href": "https://elipousson.github.io/vacant-vernacular/",
+          "text": "Home"
+        },
+        {
+          "href": "https://github.com/elipousson/vacant-vernacular",
+          "text": "GitHub"
+        }
+      ]
+    },
+    {
+      "component": "header",
+      "heading": "vacant-vernacular",
+      "subhead": ":no_entry: Research and writing on preservation and vacant houses in Baltimore, Maryland.",
+      "children": [
+        {
+          "component": "ui/TweetButton",
+          "text": "vacant-vernacular: :no_entry: Research and writing on preservation and vacant houses in Baltimore, Maryland.",
+          "url": "https://elipousson.github.io/vacant-vernacular/"
+        },
+        {
+          "component": "ui/GithubButton",
+          "user": "elipousson",
+          "repo": "vacant-vernacular"
+        }
+      ]
+    },
+    {
+      "component": "article",
+      "metadata": {
+        "source": "github.readme"
+      },
+      "html": "\n<p>This repository is a collection of materials related to an ongoing research project into the preservation issues surrounding vacancy and vacant houses in Baltimore, Maryland.</p>\n<h2>What is this project?</h2>\n<p>This project is a lot of little things that I am still in the process of gathering into a more coherent whole. All of this materials is presented as-is and may or may not be useful at this point. This project is also serving as a pilot for the exploration of online visualization tools and engagement strategies for the <a href=\"localpreservation.github.io\">Local Preservation School</a> project. </p>\n<p><strong>Research</strong> (July 2014 &#x2013; ongoing)</p>\n<ul>\n<li>Draft of the paper I presented at VAF in Chicago, 2015 - <a href=\"https://historicsprawl.wordpress.com/2015/05/12/we-have-a-problem-with-vacant-houses-in-baltimore-part-one-of-a-draft-paper-for-the-vaf-conference-in-chicago/\">Part 1</a>, <a href=\"https://historicsprawl.wordpress.com/2015/05/12/we-have-a-problem-with-vacant-houses-in-baltimore-part-two-of-two/\">Part 2</a></li>\n<li><a href=\"https://github.com/elipousson/vacant-vernacular/blob/master/salvage-city.md\">Salvage City</a> (Selected excerpts)</li>\n</ul>\n<p><strong>Vacant Housing and Preservation Workshop</strong> (November 2015)</p>\n<ul>\n<li><a href=\"https://github.com/elipousson/vacant-vernacular/blob/master/vacant-house-workshop.md\">Workshop Description/Related Resources</a></li>\n<li><a href=\"https://github.com/elipousson/vacant-vernacular/blob/master/vacant-house-background.md\">Background</a></li>\n<li><a href=\"http://slides.com/baltimoreheritage/vacant-house-workshop#/\">Slides</a></li>\n<li><a href=\"http://bl.ocks.org/elipousson/ad787f9c9beb4cc48cd7\">Abandoned Property Types/Triggers (D3.js tree diagram)</a></li>\n</ul>\n<p><strong>Additional Related Material</strong></p>\n<ul>\n<li>Vacant House Bike Tour - <a href=\"https://docs.google.com/document/d/1N5u8WjK0PrqRMQc9bmBePGeAfYTIwCoecQxkK1Tqo1k/edit?usp=sharing\">Notes</a> (August 2015)</li>\n<li><a href=\"https://docs.google.com/document/d/18_ePOZvjwMkc3FP29dR-qvxEiXSfaXo3unegEKrUarY/edit?usp=sharing\">Industrial Building Reuse Tour Notes</a> (June 2015)</li>\n<li><a href=\"https://docs.google.com/document/d/1Qn6ugfJzjkHNN_TtT2xB_sTZHa_Zj-jF5g_x4w8QMX4/edit?usp=sharing\">Creative Responses to issues of Vacancy, Preservation &amp; Heritage</a> (2014)</li>\n<li>Background statement on preservation and vacancy in Baltimore</li>\n<li>Background statement on preservation and vacant industrial buildings in Baltimore</li>\n</ul>\n<h2>What is the history of this project?</h2>\n<p>I started this project in July 2014 as a presentation for the National Alliance of Preservation Comissions (NAPC) Forum in Philadelphia, Pennsylvania along with several colleagues from the Preservation Rightsizing Network. I presented a paper based on this same research at the Vernacular Archiecture Forum in Chicago, Illinois together with Michael Allen from St. Louis, Missouri.</p>\n<p>I am currently developing an <a href=\"https://github.com/elipousson/vacant-vernacular/blob/master/vacant-house-workshop.md\">interactive</a>\n on the topic of vacant housing for presentation at the Baltimore Musuem of Art in November 2015. I&apos;m hoping to develop this into a larger toolkit or resource guide for dealing with vacancy issues in Baltimore and/or other legacy cities.</p>\n<h2>Who is working on this project?</h2>\n<p>I (Eli Pousson) am a preservationist and historian working for <a href=\"http://baltimoreheritage.org\">Baltimore Heritage</a> (also here on <a href=\"http://github.com/baltimoreheritage/\">GitHub</a>). You can reach me on Twitter <a href=\"http://twitter.com/elipousson\">@elipousson</a> or by email at pousson@baltimoreheritage.org. This project has involved formal and informal collaboration with colleagues including:</p>\n<ul>\n<li>Johns Hopkins</li>\n<li>Michael Allen</li>\n<li>Cara Bertron</li>\n<li>Emilie Evans</li>\n<li>Katie Bachler</li>\n<li>Carol Ott</li>\n<li>Andy Cook</li>\n<li>Max Pollock</li>\n<li>Marian Glebes</li>\n</ul>\n<p>And others! Please let me know if you should be on this list and I missed including you by name.</p>\n"
+    },
+    {
+      "component": "footer",
+      "links": [
+        {
+          "href": "https://github.com/elipousson/vacant-vernacular",
+          "text": "GitHub"
+        },
+        {
+          "href": "https://github.com/elipousson",
+          "text": "elipousson"
+        }
+      ]
+    }
+  ]
+}
